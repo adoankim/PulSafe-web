@@ -171,7 +171,7 @@
 							});
 
 					// Contact.
-						$('#contact')
+						$('#contactanos')
 							.scrollex({
 								top:		'50%',
 								delay:		50,
