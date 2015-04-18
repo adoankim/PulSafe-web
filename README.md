@@ -9,3 +9,4 @@ Based on http://html5up.net/big-picture Big Picture template
 "Apple, the Apple logo and iPhone are trademarks of Apple Inc., registered in the U.S. and other countries."
 
 * http://www.splitshire.com/ - Author: David Mao
+* http://www.nsplash.com/ - Author: Nicolai Berntsen
