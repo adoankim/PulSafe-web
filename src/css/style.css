@@ -878,6 +878,7 @@
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
+        font-size: 0.8em;
 	}
 
 /*********************************************************************************/
@@ -889,6 +890,7 @@
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
+        font-size: 0.8em;
 	}
 
 
@@ -901,12 +903,15 @@
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
+        font-size: 0.8em;
 	}
 
 /*********************************************************************************/
 /* la-plataforma                                                                 */
 /*********************************************************************************/
-
+    #la-plataforma{
+        font-size: 0.8em;
+    }
 	.e-list {
 	   text-align: left;
     }

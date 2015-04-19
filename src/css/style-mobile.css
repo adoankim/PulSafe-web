@@ -60,7 +60,8 @@
 					display: none !important;
 				}
 
-				.main.style2 .button.anchored {
+				.main.style2 .button.anchored,
+                .main.style3 .button.anchored{
 					display: none;
 				}
 
